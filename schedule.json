@@ -1,31 +1,9 @@
 {
   "schemaVersion": 1,
   "weekStart": "2026-06-01",
-  "generatedAt": "2026-06-01T11:06:07.357934+08:00",
+  "generatedAt": "2026-06-04T18:00:48.067165+08:00",
   "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwABttHKLwAAAA==",
   "events": [
-    {
-      "id": "8ec29fa09486",
-      "datetime": "2026-06-01T10:30:00+08:00",
-      "type": "鲜果",
-      "items": [
-        {
-          "name": "洛川苹果",
-          "kcal": null
-        }
-      ]
-    },
-    {
-      "id": "0bb313c09d09",
-      "datetime": "2026-06-01T15:00:00+08:00",
-      "type": "鲜果",
-      "items": [
-        {
-          "name": "麒麟西瓜",
-          "kcal": null
-        }
-      ]
-    },
     {
       "id": "3227d4881fdd",
       "datetime": "2026-06-01T15:00:00+08:00",
@@ -47,7 +25,7 @@
       "type": "鲜果",
       "items": [
         {
-          "name": "香梨",
+          "name": "洛川苹果",
           "kcal": null
         }
       ]
@@ -58,7 +36,7 @@
       "type": "鲜果",
       "items": [
         {
-          "name": "久红瑞甜瓜",
+          "name": "麒麟西瓜",
           "kcal": null
         }
       ]
@@ -69,7 +47,7 @@
       "type": "鲜果",
       "items": [
         {
-          "name": "香蕉",
+          "name": "香梨",
           "kcal": null
         }
       ]
@@ -80,7 +58,7 @@
       "type": "鲜果",
       "items": [
         {
-          "name": "青枣黄瓜",
+          "name": "久红瑞甜瓜",
           "kcal": null
         }
       ]
@@ -106,7 +84,7 @@
       "type": "鲜果",
       "items": [
         {
-          "name": "红油桃",
+          "name": "香蕉",
           "kcal": null
         }
       ]
@@ -117,7 +95,7 @@
       "type": "鲜果",
       "items": [
         {
-          "name": "博洋甜瓜",
+          "name": "青枣黄瓜",
           "kcal": null
         }
       ]
@@ -128,7 +106,7 @@
       "type": "鲜果",
       "items": [
         {
-          "name": "荔枝",
+          "name": "红油桃",
           "kcal": null
         }
       ]
@@ -136,6 +114,28 @@
     {
       "id": "5123b2345f08",
       "datetime": "2026-06-05T15:00:00+08:00",
+      "type": "鲜果",
+      "items": [
+        {
+          "name": "博洋甜瓜",
+          "kcal": null
+        }
+      ]
+    },
+    {
+      "id": "45919d72e003",
+      "datetime": "2026-06-06T10:30:00+08:00",
+      "type": "鲜果",
+      "items": [
+        {
+          "name": "荔枝",
+          "kcal": null
+        }
+      ]
+    },
+    {
+      "id": "5a11795cd3a2",
+      "datetime": "2026-06-06T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
