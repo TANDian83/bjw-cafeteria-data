@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "weekStart": "2026-06-01",
-  "generatedAt": "2026-06-05T16:42:32.833289+08:00",
-  "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwABttHKLwAAAA==",
+  "weekStart": "2026-06-08",
+  "generatedAt": "2026-06-08T11:19:04.232932+08:00",
+  "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwABttHKogAAAA==",
   "events": [
     {
-      "id": "8ec29fa09486",
-      "datetime": "2026-06-01T10:30:00+08:00",
+      "id": "bb732953f42e",
+      "datetime": "2026-06-08T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -16,8 +16,8 @@
       ]
     },
     {
-      "id": "0bb313c09d09",
-      "datetime": "2026-06-01T15:00:00+08:00",
+      "id": "4c2b3dfb87dd",
+      "datetime": "2026-06-08T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -27,23 +27,23 @@
       ]
     },
     {
-      "id": "3227d4881fdd",
-      "datetime": "2026-06-01T15:00:00+08:00",
+      "id": "dde0641a30ca",
+      "datetime": "2026-06-08T15:00:00+08:00",
       "type": "茶歇",
       "items": [
         {
-          "name": "生椰拿铁蛋糕",
-          "kcal": "290 kcal/100g"
+          "name": "虎皮奶油卷",
+          "kcal": "340 kcal/100g"
         },
         {
-          "name": "麻薯",
-          "kcal": "260 kcal/100g"
+          "name": "牛舌饼",
+          "kcal": "460 kcal/100g"
         }
       ]
     },
     {
-      "id": "609b72e34db3",
-      "datetime": "2026-06-02T10:30:00+08:00",
+      "id": "358690136d77",
+      "datetime": "2026-06-09T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -53,8 +53,8 @@
       ]
     },
     {
-      "id": "e9eff4f216a6",
-      "datetime": "2026-06-02T15:00:00+08:00",
+      "id": "75936a155eed",
+      "datetime": "2026-06-09T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "id": "5a99fa7b12b5",
-      "datetime": "2026-06-03T10:30:00+08:00",
+      "id": "10a9e97ceb10",
+      "datetime": "2026-06-10T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -75,34 +75,38 @@
       ]
     },
     {
-      "id": "82f25f32597d",
-      "datetime": "2026-06-03T15:00:00+08:00",
+      "id": "e742e549cda2",
+      "datetime": "2026-06-10T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
-          "name": "青枣黄瓜",
+          "name": "青枣",
+          "kcal": null
+        },
+        {
+          "name": "黄瓜",
           "kcal": null
         }
       ]
     },
     {
-      "id": "6af02fb62e85",
-      "datetime": "2026-06-03T15:00:00+08:00",
+      "id": "9993049fdda5",
+      "datetime": "2026-06-10T15:00:00+08:00",
       "type": "茶歇",
       "items": [
         {
-          "name": "奥利奥雪媚娘",
+          "name": "百香果椰子",
           "kcal": "270 kcal/100g"
         },
         {
-          "name": "芝士蛋糕",
-          "kcal": "290 kcal/100g"
+          "name": "生椰拿铁奶酥",
+          "kcal": "380 kcal/100g"
         }
       ]
     },
     {
-      "id": "794ed894797a",
-      "datetime": "2026-06-04T10:30:00+08:00",
+      "id": "c36e68a255da",
+      "datetime": "2026-06-11T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -112,8 +116,8 @@
       ]
     },
     {
-      "id": "1a41bf90fd0c",
-      "datetime": "2026-06-04T15:00:00+08:00",
+      "id": "7eb31e76dcda",
+      "datetime": "2026-06-11T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -123,8 +127,8 @@
       ]
     },
     {
-      "id": "39f052ad3a8c",
-      "datetime": "2026-06-05T10:30:00+08:00",
+      "id": "48cfd0a493e3",
+      "datetime": "2026-06-12T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -134,8 +138,8 @@
       ]
     },
     {
-      "id": "5123b2345f08",
-      "datetime": "2026-06-05T15:00:00+08:00",
+      "id": "cb3267c745c9",
+      "datetime": "2026-06-12T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
