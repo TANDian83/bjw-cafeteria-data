@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "weekStart": "2026-06-08",
-  "generatedAt": "2026-06-08T11:20:42.913411+08:00",
+  "generatedAt": "2026-06-08T12:32:26.598362+08:00",
   "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwABttHKogAAAA==",
   "events": [
     {
@@ -80,11 +80,7 @@
       "type": "鲜果",
       "items": [
         {
-          "name": "青枣",
-          "kcal": null
-        },
-        {
-          "name": "黄瓜",
+          "name": "青枣黄瓜",
           "kcal": null
         }
       ]
