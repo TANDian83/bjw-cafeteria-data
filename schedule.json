@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "weekStart": "2026-06-22",
-  "generatedAt": "2026-06-22T13:35:47.730931+08:00",
-  "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwACPBHxmQAAAA==",
+  "weekStart": "2026-06-29",
+  "generatedAt": "2026-06-29T13:21:20.171231+08:00",
+  "sourceMessageId": "manual-from-image-2026-06-29",
   "events": [
     {
-      "id": "f2b60cd21965",
-      "datetime": "2026-06-22T10:30:00+08:00",
+      "id": "3cf3505b4ce2",
+      "datetime": "2026-06-29T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -16,8 +16,8 @@
       ]
     },
     {
-      "id": "58e2feac8535",
-      "datetime": "2026-06-22T15:00:00+08:00",
+      "id": "7ac57b8b7e18",
+      "datetime": "2026-06-29T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -27,23 +27,23 @@
       ]
     },
     {
-      "id": "364d9fee947c",
-      "datetime": "2026-06-22T15:00:00+08:00",
+      "id": "440f5f7e6337",
+      "datetime": "2026-06-29T15:00:00+08:00",
       "type": "茶歇",
       "items": [
         {
-          "name": "蓝莓乳酪",
-          "kcal": "260 kcal/100g"
+          "name": "提拉米苏",
+          "kcal": "280 kcal/100g"
         },
         {
-          "name": "大理石",
-          "kcal": "260 kcal/100g"
+          "name": "麻薯布丁",
+          "kcal": "280 kcal/100g"
         }
       ]
     },
     {
-      "id": "f3a6cc5841e1",
-      "datetime": "2026-06-23T10:30:00+08:00",
+      "id": "8815b19d4b2f",
+      "datetime": "2026-06-30T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -53,8 +53,8 @@
       ]
     },
     {
-      "id": "a41d6bb147e0",
-      "datetime": "2026-06-23T15:00:00+08:00",
+      "id": "697c3a950ccc",
+      "datetime": "2026-06-30T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "id": "e8cc10a66c93",
-      "datetime": "2026-06-24T10:30:00+08:00",
+      "id": "02b2f9a55415",
+      "datetime": "2026-07-01T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -75,34 +75,34 @@
       ]
     },
     {
-      "id": "8d5521cc4889",
-      "datetime": "2026-06-24T15:00:00+08:00",
+      "id": "6796ae029063",
+      "datetime": "2026-07-01T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
-          "name": "青枣黄瓜",
+          "name": "网纹瓜",
           "kcal": null
         }
       ]
     },
     {
-      "id": "7867212d7404",
-      "datetime": "2026-06-24T15:00:00+08:00",
+      "id": "4d66f48e74e2",
+      "datetime": "2026-07-01T15:00:00+08:00",
       "type": "茶歇",
       "items": [
         {
-          "name": "咸奶油脆片",
-          "kcal": "460 kcal/100g"
+          "name": "奥利奥雪媚娘",
+          "kcal": "270 kcal/100g"
         },
         {
-          "name": "海苔肉松奶酥",
-          "kcal": "370 kcal/100g"
+          "name": "蒜香芝士肉肠",
+          "kcal": "280 kcal/100g"
         }
       ]
     },
     {
-      "id": "f9518f29083a",
-      "datetime": "2026-06-25T10:30:00+08:00",
+      "id": "442658d7ce8a",
+      "datetime": "2026-07-02T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -112,34 +112,34 @@
       ]
     },
     {
-      "id": "a8d38132ecad",
-      "datetime": "2026-06-25T15:00:00+08:00",
+      "id": "1f6ecae0a05f",
+      "datetime": "2026-07-02T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
-          "name": "博洋甜瓜",
+          "name": "白心火龙果",
           "kcal": null
         }
       ]
     },
     {
-      "id": "3d8725f24a09",
-      "datetime": "2026-06-26T10:30:00+08:00",
+      "id": "5c3fa0443742",
+      "datetime": "2026-07-03T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
-          "name": "荔枝",
+          "name": "维多利亚青提",
           "kcal": null
         }
       ]
     },
     {
-      "id": "e431a5cd30ed",
-      "datetime": "2026-06-26T15:00:00+08:00",
+      "id": "d90eb3d2873f",
+      "datetime": "2026-07-03T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
-          "name": "沃柑",
+          "name": "青枣黄瓜",
           "kcal": null
         }
       ]
