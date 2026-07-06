@@ -1,108 +1,12 @@
 {
   "schemaVersion": 1,
-  "weekStart": "2026-06-29",
-  "generatedAt": "2026-06-29T13:21:20.171231+08:00",
-  "sourceMessageId": "manual-from-image-2026-06-29",
+  "weekStart": "2026-07-06",
+  "generatedAt": "2026-07-06T14:23:18.607530+08:00",
+  "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwACgnZDHwAAAA==",
   "events": [
     {
-      "id": "3cf3505b4ce2",
-      "datetime": "2026-06-29T10:30:00+08:00",
-      "type": "鲜果",
-      "items": [
-        {
-          "name": "洛川苹果",
-          "kcal": null
-        }
-      ]
-    },
-    {
-      "id": "7ac57b8b7e18",
-      "datetime": "2026-06-29T15:00:00+08:00",
-      "type": "鲜果",
-      "items": [
-        {
-          "name": "麒麟西瓜",
-          "kcal": null
-        }
-      ]
-    },
-    {
-      "id": "440f5f7e6337",
-      "datetime": "2026-06-29T15:00:00+08:00",
-      "type": "茶歇",
-      "items": [
-        {
-          "name": "提拉米苏",
-          "kcal": "280 kcal/100g"
-        },
-        {
-          "name": "麻薯布丁",
-          "kcal": "280 kcal/100g"
-        }
-      ]
-    },
-    {
-      "id": "8815b19d4b2f",
-      "datetime": "2026-06-30T10:30:00+08:00",
-      "type": "鲜果",
-      "items": [
-        {
-          "name": "香梨",
-          "kcal": null
-        }
-      ]
-    },
-    {
-      "id": "697c3a950ccc",
-      "datetime": "2026-06-30T15:00:00+08:00",
-      "type": "鲜果",
-      "items": [
-        {
-          "name": "久红瑞甜瓜",
-          "kcal": null
-        }
-      ]
-    },
-    {
-      "id": "02b2f9a55415",
-      "datetime": "2026-07-01T10:30:00+08:00",
-      "type": "鲜果",
-      "items": [
-        {
-          "name": "香蕉",
-          "kcal": null
-        }
-      ]
-    },
-    {
-      "id": "6796ae029063",
-      "datetime": "2026-07-01T15:00:00+08:00",
-      "type": "鲜果",
-      "items": [
-        {
-          "name": "网纹瓜",
-          "kcal": null
-        }
-      ]
-    },
-    {
-      "id": "4d66f48e74e2",
-      "datetime": "2026-07-01T15:00:00+08:00",
-      "type": "茶歇",
-      "items": [
-        {
-          "name": "奥利奥雪媚娘",
-          "kcal": "270 kcal/100g"
-        },
-        {
-          "name": "蒜香芝士肉肠",
-          "kcal": "280 kcal/100g"
-        }
-      ]
-    },
-    {
-      "id": "442658d7ce8a",
-      "datetime": "2026-07-02T10:30:00+08:00",
+      "id": "45cc5762faa8",
+      "datetime": "2026-07-06T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -112,8 +16,104 @@
       ]
     },
     {
-      "id": "1f6ecae0a05f",
-      "datetime": "2026-07-02T15:00:00+08:00",
+      "id": "c68a0e6e0e33",
+      "datetime": "2026-07-06T15:00:00+08:00",
+      "type": "鲜果",
+      "items": [
+        {
+          "name": "麒麟西瓜",
+          "kcal": null
+        }
+      ]
+    },
+    {
+      "id": "4a60a3fa9e67",
+      "datetime": "2026-07-06T15:00:00+08:00",
+      "type": "茶歇",
+      "items": [
+        {
+          "name": "蓝莓乳酪",
+          "kcal": "260 kcal/100g"
+        },
+        {
+          "name": "大理石",
+          "kcal": "260 kcal/100g"
+        }
+      ]
+    },
+    {
+      "id": "dae29393c408",
+      "datetime": "2026-07-07T10:30:00+08:00",
+      "type": "鲜果",
+      "items": [
+        {
+          "name": "千禧",
+          "kcal": null
+        }
+      ]
+    },
+    {
+      "id": "c801c584e490",
+      "datetime": "2026-07-07T15:00:00+08:00",
+      "type": "鲜果",
+      "items": [
+        {
+          "name": "久红瑞甜瓜",
+          "kcal": null
+        }
+      ]
+    },
+    {
+      "id": "0bb16a1611ab",
+      "datetime": "2026-07-08T10:30:00+08:00",
+      "type": "鲜果",
+      "items": [
+        {
+          "name": "香蕉",
+          "kcal": null
+        }
+      ]
+    },
+    {
+      "id": "3a028b785ed4",
+      "datetime": "2026-07-08T15:00:00+08:00",
+      "type": "鲜果",
+      "items": [
+        {
+          "name": "网纹瓜",
+          "kcal": null
+        }
+      ]
+    },
+    {
+      "id": "307acdddc4db",
+      "datetime": "2026-07-08T15:00:00+08:00",
+      "type": "茶歇",
+      "items": [
+        {
+          "name": "咸奶油脆片",
+          "kcal": "460 kcal/100g"
+        },
+        {
+          "name": "海苔肉松奶酥",
+          "kcal": "370 kcal/100g"
+        }
+      ]
+    },
+    {
+      "id": "7c4b0a09b1bd",
+      "datetime": "2026-07-09T10:30:00+08:00",
+      "type": "鲜果",
+      "items": [
+        {
+          "name": "青枣黄瓜",
+          "kcal": null
+        }
+      ]
+    },
+    {
+      "id": "6d32a1a9ff9a",
+      "datetime": "2026-07-09T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -123,8 +123,8 @@
       ]
     },
     {
-      "id": "5c3fa0443742",
-      "datetime": "2026-07-03T10:30:00+08:00",
+      "id": "6bbb9675ba39",
+      "datetime": "2026-07-10T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -134,12 +134,12 @@
       ]
     },
     {
-      "id": "d90eb3d2873f",
-      "datetime": "2026-07-03T15:00:00+08:00",
+      "id": "6fff2945e1f2",
+      "datetime": "2026-07-10T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
-          "name": "青枣黄瓜",
+          "name": "突围蜜桃",
           "kcal": null
         }
       ]
