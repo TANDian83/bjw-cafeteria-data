@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "weekStart": "2026-07-06",
-  "generatedAt": "2026-07-06T14:23:18.607530+08:00",
-  "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwACgnZDHwAAAA==",
+  "weekStart": "2026-07-13",
+  "generatedAt": "2026-07-13T11:20:57.105353+08:00",
+  "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwACsa5ARAAAAA==",
   "events": [
     {
-      "id": "45cc5762faa8",
-      "datetime": "2026-07-06T10:30:00+08:00",
+      "id": "d7c9feec5d5d",
+      "datetime": "2026-07-13T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -16,8 +16,8 @@
       ]
     },
     {
-      "id": "c68a0e6e0e33",
-      "datetime": "2026-07-06T15:00:00+08:00",
+      "id": "855697e1ae9c",
+      "datetime": "2026-07-13T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -27,23 +27,23 @@
       ]
     },
     {
-      "id": "4a60a3fa9e67",
-      "datetime": "2026-07-06T15:00:00+08:00",
+      "id": "2eb32b391f5d",
+      "datetime": "2026-07-13T15:00:00+08:00",
       "type": "茶歇",
       "items": [
         {
-          "name": "蓝莓乳酪",
-          "kcal": "260 kcal/100g"
+          "name": "虎皮奶油卷",
+          "kcal": "340 kcal/100g"
         },
         {
-          "name": "大理石",
-          "kcal": "260 kcal/100g"
+          "name": "牛舌饼",
+          "kcal": "460 kcal/100g"
         }
       ]
     },
     {
-      "id": "dae29393c408",
-      "datetime": "2026-07-07T10:30:00+08:00",
+      "id": "4bcacbb7697f",
+      "datetime": "2026-07-14T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -53,8 +53,8 @@
       ]
     },
     {
-      "id": "c801c584e490",
-      "datetime": "2026-07-07T15:00:00+08:00",
+      "id": "0ca3437c033a",
+      "datetime": "2026-07-14T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "id": "0bb16a1611ab",
-      "datetime": "2026-07-08T10:30:00+08:00",
+      "id": "5b819d70bf70",
+      "datetime": "2026-07-15T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "id": "3a028b785ed4",
-      "datetime": "2026-07-08T15:00:00+08:00",
+      "id": "207d6374b244",
+      "datetime": "2026-07-15T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -86,23 +86,23 @@
       ]
     },
     {
-      "id": "307acdddc4db",
-      "datetime": "2026-07-08T15:00:00+08:00",
+      "id": "12811348181e",
+      "datetime": "2026-07-15T15:00:00+08:00",
       "type": "茶歇",
       "items": [
         {
-          "name": "咸奶油脆片",
-          "kcal": "460 kcal/100g"
+          "name": "百香果椰子",
+          "kcal": "270 kcal/100g"
         },
         {
-          "name": "海苔肉松奶酥",
-          "kcal": "370 kcal/100g"
+          "name": "生椰拿铁奶酥",
+          "kcal": "380 kcal/100g"
         }
       ]
     },
     {
-      "id": "7c4b0a09b1bd",
-      "datetime": "2026-07-09T10:30:00+08:00",
+      "id": "e1688d3b4c63",
+      "datetime": "2026-07-16T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -112,8 +112,8 @@
       ]
     },
     {
-      "id": "6d32a1a9ff9a",
-      "datetime": "2026-07-09T15:00:00+08:00",
+      "id": "c3aed243e008",
+      "datetime": "2026-07-16T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -123,8 +123,8 @@
       ]
     },
     {
-      "id": "6bbb9675ba39",
-      "datetime": "2026-07-10T10:30:00+08:00",
+      "id": "e2101ee0f04b",
+      "datetime": "2026-07-17T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -134,8 +134,8 @@
       ]
     },
     {
-      "id": "6fff2945e1f2",
-      "datetime": "2026-07-10T15:00:00+08:00",
+      "id": "8070c6b66714",
+      "datetime": "2026-07-17T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
