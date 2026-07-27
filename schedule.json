@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "weekStart": "2026-07-20",
-  "generatedAt": "2026-07-26T10:29:28.220582+08:00",
-  "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwACsa5AoAAAAA==",
+  "weekStart": "2026-07-27",
+  "generatedAt": "2026-07-27T10:28:32.448069+08:00",
+  "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwAC15gHLwAAAA==",
   "events": [
     {
-      "id": "645956d48b91",
-      "datetime": "2026-07-20T10:30:00+08:00",
+      "id": "03a9a0120564",
+      "datetime": "2026-07-27T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -16,8 +16,8 @@
       ]
     },
     {
-      "id": "8e9ff761a995",
-      "datetime": "2026-07-20T15:00:00+08:00",
+      "id": "15ac58cc9930",
+      "datetime": "2026-07-27T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -27,23 +27,23 @@
       ]
     },
     {
-      "id": "be77926d6887",
-      "datetime": "2026-07-20T15:00:00+08:00",
+      "id": "85a18582cbd0",
+      "datetime": "2026-07-27T15:00:00+08:00",
       "type": "茶歇",
       "items": [
         {
-          "name": "树莓慕斯",
-          "kcal": "230 kcal/100g"
+          "name": "老婆饼",
+          "kcal": "420 kcal/100g"
         },
         {
-          "name": "蒜香芝士肉肠",
-          "kcal": "280 kcal/100g"
+          "name": "奶油号角",
+          "kcal": "380 kcal/100g"
         }
       ]
     },
     {
-      "id": "179653887edf",
-      "datetime": "2026-07-21T10:30:00+08:00",
+      "id": "9123faffdb2e",
+      "datetime": "2026-07-28T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -53,8 +53,8 @@
       ]
     },
     {
-      "id": "9d9ee5851bd3",
-      "datetime": "2026-07-21T15:00:00+08:00",
+      "id": "0aa6edfb5b82",
+      "datetime": "2026-07-28T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "id": "aea636374610",
-      "datetime": "2026-07-22T10:30:00+08:00",
+      "id": "ead7447cd50d",
+      "datetime": "2026-07-29T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "id": "e46599db885f",
-      "datetime": "2026-07-22T15:00:00+08:00",
+      "id": "ec2ddb733392",
+      "datetime": "2026-07-29T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -86,19 +86,19 @@
       ]
     },
     {
-      "id": "f1a54c84f2ef",
-      "datetime": "2026-07-22T15:00:00+08:00",
+      "id": "ec5ba0848a50",
+      "datetime": "2026-07-29T15:00:00+08:00",
       "type": "茶歇",
       "items": [
         {
-          "name": "梦龙香草口味冰淇淋",
-          "kcal": "240 kcal/100g"
+          "name": "可爱多",
+          "kcal": "290 kcal/100g"
         }
       ]
     },
     {
-      "id": "62ee62870246",
-      "datetime": "2026-07-23T10:30:00+08:00",
+      "id": "af6f3c49a672",
+      "datetime": "2026-07-30T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -108,8 +108,8 @@
       ]
     },
     {
-      "id": "a5089c56975d",
-      "datetime": "2026-07-23T15:00:00+08:00",
+      "id": "802a7ab2f815",
+      "datetime": "2026-07-30T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "id": "5d6df4ad5d43",
-      "datetime": "2026-07-24T10:30:00+08:00",
+      "id": "347656758f3b",
+      "datetime": "2026-07-31T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "id": "bf79ae93dab5",
-      "datetime": "2026-07-24T15:00:00+08:00",
+      "id": "dcbd8c1c2c1a",
+      "datetime": "2026-07-31T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
