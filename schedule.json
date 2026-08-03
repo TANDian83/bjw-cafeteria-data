@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "weekStart": "2026-07-27",
-  "generatedAt": "2026-07-27T10:28:32.448069+08:00",
-  "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwAC15gHLwAAAA==",
+  "weekStart": "2026-08-03",
+  "generatedAt": "2026-08-03T10:45:55.224705+08:00",
+  "sourceMessageId": "AQMkADU2NDFkOWM4LTI1ZGUtNDIwNy04YjY1LTNkNGRiZjNlOGM5NwBGAAADebgkLVzmdUykva6zRVNuDAcAAAD9STO34mpBlo6yCnNjczcAAAIBDAAAAf1JM7fiakGWjrIKc2NzNwAC9JLingAAAA==",
   "events": [
     {
-      "id": "03a9a0120564",
-      "datetime": "2026-07-27T10:30:00+08:00",
+      "id": "81026c721525",
+      "datetime": "2026-08-03T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
-          "name": "红油桃",
+          "name": "珍珠枣油桃",
           "kcal": null
         }
       ]
     },
     {
-      "id": "15ac58cc9930",
-      "datetime": "2026-07-27T15:00:00+08:00",
+      "id": "5922cafb3648",
+      "datetime": "2026-08-03T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -27,45 +27,45 @@
       ]
     },
     {
-      "id": "85a18582cbd0",
-      "datetime": "2026-07-27T15:00:00+08:00",
+      "id": "b831fccdbfd0",
+      "datetime": "2026-08-03T15:00:00+08:00",
       "type": "茶歇",
       "items": [
         {
-          "name": "老婆饼",
-          "kcal": "420 kcal/100g"
+          "name": "麻薯布丁",
+          "kcal": "260 kcal/100g"
         },
         {
-          "name": "奶油号角",
-          "kcal": "380 kcal/100g"
+          "name": "抹茶雪媚娘",
+          "kcal": "320 kcal/100g"
         }
       ]
     },
     {
-      "id": "9123faffdb2e",
-      "datetime": "2026-07-28T10:30:00+08:00",
+      "id": "37653a836e9a",
+      "datetime": "2026-08-04T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
-          "name": "千禧",
+          "name": "冬枣",
           "kcal": null
         }
       ]
     },
     {
-      "id": "0aa6edfb5b82",
-      "datetime": "2026-07-28T15:00:00+08:00",
+      "id": "7a5916e3f2f2",
+      "datetime": "2026-08-04T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
-          "name": "久红瑞甜瓜",
+          "name": "玉菇蜜瓜",
           "kcal": null
         }
       ]
     },
     {
-      "id": "ead7447cd50d",
-      "datetime": "2026-07-29T10:30:00+08:00",
+      "id": "ed5f251621c9",
+      "datetime": "2026-08-05T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -75,41 +75,8 @@
       ]
     },
     {
-      "id": "ec2ddb733392",
-      "datetime": "2026-07-29T15:00:00+08:00",
-      "type": "鲜果",
-      "items": [
-        {
-          "name": "网纹瓜",
-          "kcal": null
-        }
-      ]
-    },
-    {
-      "id": "ec5ba0848a50",
-      "datetime": "2026-07-29T15:00:00+08:00",
-      "type": "茶歇",
-      "items": [
-        {
-          "name": "可爱多",
-          "kcal": "290 kcal/100g"
-        }
-      ]
-    },
-    {
-      "id": "af6f3c49a672",
-      "datetime": "2026-07-30T10:30:00+08:00",
-      "type": "鲜果",
-      "items": [
-        {
-          "name": "青枣黄瓜",
-          "kcal": null
-        }
-      ]
-    },
-    {
-      "id": "802a7ab2f815",
-      "datetime": "2026-07-30T15:00:00+08:00",
+      "id": "36689d831e1e",
+      "datetime": "2026-08-05T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
@@ -119,23 +86,56 @@
       ]
     },
     {
-      "id": "347656758f3b",
-      "datetime": "2026-07-31T10:30:00+08:00",
+      "id": "4adf48dc02e2",
+      "datetime": "2026-08-05T15:00:00+08:00",
+      "type": "茶歇",
+      "items": [
+        {
+          "name": "巧乐兹四个圈",
+          "kcal": "310 kcal/100g"
+        }
+      ]
+    },
+    {
+      "id": "663eb7129bca",
+      "datetime": "2026-08-06T10:30:00+08:00",
       "type": "鲜果",
       "items": [
         {
-          "name": "维多利亚青提",
+          "name": "脱骨脆李",
           "kcal": null
         }
       ]
     },
     {
-      "id": "dcbd8c1c2c1a",
-      "datetime": "2026-07-31T15:00:00+08:00",
+      "id": "8c89d2dd9bf1",
+      "datetime": "2026-08-06T15:00:00+08:00",
       "type": "鲜果",
       "items": [
         {
-          "name": "突围蜜桃",
+          "name": "西州蜜",
+          "kcal": null
+        }
+      ]
+    },
+    {
+      "id": "92c0af8c7a52",
+      "datetime": "2026-08-07T10:30:00+08:00",
+      "type": "鲜果",
+      "items": [
+        {
+          "name": "紫甜葡萄",
+          "kcal": null
+        }
+      ]
+    },
+    {
+      "id": "b9a9e46d2c85",
+      "datetime": "2026-08-07T15:00:00+08:00",
+      "type": "鲜果",
+      "items": [
+        {
+          "name": "毛桃",
           "kcal": null
         }
       ]
